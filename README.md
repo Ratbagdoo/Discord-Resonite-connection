@@ -19,6 +19,8 @@ run launcher.py
 
 #additonal info
 If you run into problems with just running launch.py the opn he intire folder in vsc then run the launch.py
+#Also
+for resonite you will be needing to set up the flux.
 
 #thanks to the following people for aiding in the creation of this
 Space
