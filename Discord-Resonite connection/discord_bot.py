@@ -9,7 +9,7 @@ TOKEN = open("token.txt", "r").read()
 WEBSOCKET_SERVER_ADDRESS = 'ws://localhost:8765'  # Change this to your WebSocket server address
 
 
-# Define your intents
+# Defines your intents
 intents = discord.Intents.default()
 intents.message_content = True  # Enable message events
 
@@ -36,13 +36,13 @@ async def on_message(message):
 
 
 
-# Run the Discord bot and receive messages from the WebSocket server concurrently
+# Runs the Discord bot and receive messages from the WebSocket server concurrently
 async def main():
     await asyncio.gather(
         client.start(TOKEN),
         
     )
 
-# Run the main coroutine
+# Runs the main coroutine
 if __name__ == "__main__":
     asyncio.run(main())
