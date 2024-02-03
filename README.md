@@ -17,5 +17,8 @@ Incert the channel ID fomr discord into line 10 of Websocket_Server_Send.py
 #running things
 run launcher.py
 
+#additonal info
+If you run into problems with just running launch.py the opn he intire folder in vsc then run the launch.py
+
 #thanks to the following people for aiding in the creation of this
 Space
