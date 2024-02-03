@@ -13,4 +13,9 @@ A discord bot with permisshions to read and write messages
 #discord bot side
 you can add your bot token via pasting it into the token txt file
 #discord channel side
-Incert the channel ID fomr discord into line 10 of .py
+Incert the channel ID fomr discord into line 10 of Websocket_Server_Send.py
+#running things
+run launcher.py
+
+#thanks to the following people for aiding in the creation of this
+Space
