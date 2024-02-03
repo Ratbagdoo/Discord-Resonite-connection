@@ -1,7 +1,7 @@
 import asyncio
 import websockets
 
-# Define the WebSocket server address and port
+# Defines the WebSocket server address and port
 WEBSOCKET_SERVER_ADDRESS = 'localhost'
 WEBSOCKET_SERVER_PORT = 8765
 
