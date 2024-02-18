@@ -22,15 +22,14 @@ Incert the channel ID fomr discord into line 10 of Websocket_Server_Send.py
 
 # running things
 
+replace the {ENTER FILE PATH} with the main file addtress inside of the launch,discord bot and the Websocket_Server_Send files.
 run launcher.py
 
-# additonal info
 
-If you run into problems with just running launch.py the opn he intire folder in vsc then run the launch.py
+# resonite side of things
 
-# Also
-
-for resonite you will be needing to set up the flux.
+you will be need to set up the Proto Flux inside of Resonite.
+if you need help I advise asking a "player" with the green light globe for help.
 
 # thanks to the following people for aiding in the creation of this
 
