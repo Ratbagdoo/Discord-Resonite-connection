@@ -1,7 +1,7 @@
 import subprocess
 
 if __name__ == "__main__":
-    subprocess.Popen(["python", "websoket_server_discord.py"])
-    subprocess.Popen(["python", "discord_bot.py"])
-    subprocess.Popen(["python", "Websocket_Server_Send"])
+    subprocess.Popen(["python", "{ENTER FILE ADRESS HERE}/websoket_server_discord.py"])
+    subprocess.Popen(["python", "{ENTER FILE ADRESS HERE}/discord_bot.py"])
+    subprocess.Popen(["python", "{ENTER FILE ADRESS HERE}/HUhqZ8B.py"])
     # Add subprocess.Popen for new flies if needed
