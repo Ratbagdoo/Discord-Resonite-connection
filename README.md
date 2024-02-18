@@ -3,9 +3,9 @@ Enables communication to discord from resonite via websokets
 
 # python Dependency prerequisites
 
-discord
-asyncio
-websockets
+discord,
+ asyncio &
+ websockets
 
 # stuff you need outside of code
 
