@@ -3,7 +3,7 @@ import asyncio
 import websockets
 import logging
 # Discord bot token
-TOKEN = open("token.txt", "r").read()
+TOKEN = open("{ENTER FILE PATH HERE}/token.txt").read()
 
 # WebSocket server address
 WEBSOCKET_SERVER_ADDRESS = 'ws://localhost:8765'  # Change this to your WebSocket server address
