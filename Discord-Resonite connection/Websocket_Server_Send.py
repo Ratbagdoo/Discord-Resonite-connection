@@ -8,7 +8,7 @@ intents.message_content = True
 client = discord.Client(intents=intents)
 
 channelID = 283889214804852736 # insert channel id as an int 
-token = open("token.txt", "r").read()
+token = open("{ENTER FILE PATH HEERE}/token.txt").read()
 
 async def echo(websocket, path):
     async for message in websocket:
